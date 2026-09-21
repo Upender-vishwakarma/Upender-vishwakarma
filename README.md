@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Opinder Vishkarma<br><br>### 🎓 B.Tech CSE (Data Science) Student | 💻 Aspiring Data Scientist & Software Developer<br><br>I'm **Opinder Vishkarma**, a passionate **B.Tech Computer Science & Engineering (Data Science)** student at **LKCTC**. I enjoy learning new technologies, building practical projects, solving programming problems, and exploring the fields of **Data Science, Artificial Intelligence, Machine Learning, and Software Development**.<br><br>### 🚀 About Me<br><br>* 🎓 Pursuing **B.Tech in Computer Science & Engineering (Data Science)**<br>* 🏫 **LKCTC**<br>* 💻 Interested in **Software Development, Data Science & AI**<br>* 🤖 Exploring **Artificial Intelligence, Machine Learning & LLMs**<br>* 📊 Interested in **Data Analysis and Data Visualization**<br>* 🧩 Practicing **DSA, Python, C++ and OOPs**<br>* 🌐 Building **Web & Full-Stack Projects**<br>* 📚 Always learning and improving my technical skills<br>* 🎯 Goal: To become a skilled **Data Scientist and Software Developer**<br><br>### 🛠️ Technologies & Skills<br><br>**Programming Languages**<br><br>* Python<br>* C++<br>* JavaScript<br>* SQL<br><br>**Data Science & AI**<br><br>* Data Analysis<br>* Machine Learning<br>* Artificial Intelligence<br>* Natural Language Processing<br>* LLM & Generative AI<br>* Data Visualization<br><br>**Web Development**<br><br>* HTML<br>* CSS<br>* JavaScript<br>* React<br>* Node.js<br>* Express.js<br><br>**Databases**<br><br>* MySQL<br>* MongoDB<br><br>**Tools**<br><br>* Git & GitHub<br>* VS Code<br>* Jupyter Notebook<br>* Tableau<br><br>### 📌 What I'm Currently Working On<br><br>* 🚀 Building AI-powered applications<br>* 📊 Developing Data Science & Machine Learning projects<br>* 🤖 Exploring LLM and Generative AI applications<br>* 🌐 Improving my full-stack development skills<br>* 🧠 Strengthening DSA and problem-solving skills<br><br>### 📂 Featured Projects<br><br>Some of the projects I'm working on include:<br><br>* 🤖 **AI Email Management System** – An intelligent system for email organization and AI-powered email processing.<br>* 🩺 **DiagnoSmart** – An AI-based disease prediction system with prediction, dashboard, and chatbot features.<br>* 📊 **Data Science & Machine Learning Projects** – Projects involving data analysis, visualization, and predictive modeling.<br>* 🌐 **Full-Stack Web Applications** – Web applications developed using modern frontend and backend technologies.<br><br>### 🌱 Learning Journey<br><br>I'm continuously learning and improving my skills in:<br><br>`Python` • `C++` • `DSA` • `SQL` • `Machine Learning` • `AI` • `LLMs` • `Data Science` • `React` • `Node.js`<br><br>### 📫 Connect With Me<br><br>I'm always interested in learning, collaborating on projects, and connecting with other developers and students.<br><br>**Thanks for visiting my profile! 🚀**<br><br>> "Learn. Build. Improve. Repeat." 💻<br>
 
-<!--
-**Upender-vishwakarma/Upender-vishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/upender_31_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/opinder-vishwakarma-5b304327a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwakarmaupender3@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Upender-vishwakarma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Upender-vishwakarma&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Upender-vishwakarma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Upender-vishwakarma&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
