@@ -1,5 +1,105 @@
-# 💫 About Me:
-# 👋 Hi, I'm Opinder Vishkarma<br><br>### 🎓 B.Tech CSE (Data Science) Student | 💻 Aspiring Data Scientist & Software Developer<br><br>I'm **Opinder Vishkarma**, a passionate **B.Tech Computer Science & Engineering (Data Science)** student at **LKCTC**. I enjoy learning new technologies, building practical projects, solving programming problems, and exploring the fields of **Data Science, Artificial Intelligence, Machine Learning, and Software Development**.<br><br>### 🚀 About Me<br><br>* 🎓 Pursuing **B.Tech in Computer Science & Engineering (Data Science)**<br>* 🏫 **LKCTC**<br>* 💻 Interested in **Software Development, Data Science & AI**<br>* 🤖 Exploring **Artificial Intelligence, Machine Learning & LLMs**<br>* 📊 Interested in **Data Analysis and Data Visualization**<br>* 🧩 Practicing **DSA, Python, C++ and OOPs**<br>* 🌐 Building **Web & Full-Stack Projects**<br>* 📚 Always learning and improving my technical skills<br>* 🎯 Goal: To become a skilled **Data Scientist and Software Developer**<br><br>### 🛠️ Technologies & Skills<br><br>**Programming Languages**<br><br>* Python<br>* C++<br>* JavaScript<br>* SQL<br><br>**Data Science & AI**<br><br>* Data Analysis<br>* Machine Learning<br>* Artificial Intelligence<br>* Natural Language Processing<br>* LLM & Generative AI<br>* Data Visualization<br><br>**Web Development**<br><br>* HTML<br>* CSS<br>* JavaScript<br>* React<br>* Node.js<br>* Express.js<br><br>**Databases**<br><br>* MySQL<br>* MongoDB<br><br>**Tools**<br><br>* Git & GitHub<br>* VS Code<br>* Jupyter Notebook<br>* Tableau<br><br>### 📌 What I'm Currently Working On<br><br>* 🚀 Building AI-powered applications<br>* 📊 Developing Data Science & Machine Learning projects<br>* 🤖 Exploring LLM and Generative AI applications<br>* 🌐 Improving my full-stack development skills<br>* 🧠 Strengthening DSA and problem-solving skills<br><br>### 📂 Featured Projects<br><br>Some of the projects I'm working on include:<br><br>* 🤖 **AI Email Management System** – An intelligent system for email organization and AI-powered email processing.<br>* 🩺 **DiagnoSmart** – An AI-based disease prediction system with prediction, dashboard, and chatbot features.<br>* 📊 **Data Science & Machine Learning Projects** – Projects involving data analysis, visualization, and predictive modeling.<br>* 🌐 **Full-Stack Web Applications** – Web applications developed using modern frontend and backend technologies.<br><br>### 🌱 Learning Journey<br><br>I'm continuously learning and improving my skills in:<br><br>`Python` • `C++` • `DSA` • `SQL` • `Machine Learning` • `AI` • `LLMs` • `Data Science` • `React` • `Node.js`<br><br>### 📫 Connect With Me<br><br>I'm always interested in learning, collaborating on projects, and connecting with other developers and students.<br><br>**Thanks for visiting my profile! 🚀**<br><br>> "Learn. Build. Improve. Repeat." 💻<br>
+# 💫 About Me
+
+## 👋 Hi, I'm Opinder Vishkarma
+
+### 🎓 B.Tech Data Science Student | 🤖 AI & ML Enthusiast | 💻 Developer
+
+I'm **Opinder Vishkarma**, a **B.Tech Data Science student at Lyallpur Khalsa College Technical Campus (LKCTC)** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
+
+I enjoy building practical projects, working with data, exploring AI technologies, and developing applications that solve real-world problems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Data Science**
+- 📊 Interested in **Data Science, Data Analysis & Data Visualization**
+- 🐍 Working with **Python, SQL, R & C++**
+- 🤖 Exploring **Machine Learning, AI & NLP**
+- 🌐 Building **Full-Stack Web Applications**
+- 🗄️ Working with **MongoDB & Supabase**
+- 🧠 Interested in **problem-solving and data-driven solutions**
+- 📚 Continuously learning new technologies and improving my skills
+- 🎯 Goal: To grow as a **Data Scientist and Software Developer**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming
+
+`Python` `SQL` `R` `C++` `JavaScript`
+
+### 📊 Data Science & Machine Learning
+
+`Pandas` `NumPy` `Scikit-learn`  
+`Data Analysis` `Data Visualization`  
+`Supervised Learning` `Unsupervised Learning`  
+`Machine Learning` `NLP`
+
+### 🌐 Web Development
+
+`HTML` `CSS` `JavaScript`  
+`React.js` `Node.js` `Express.js`
+
+### 🗄️ Database
+
+`MongoDB` `Supabase`
+
+### 🔧 Tools
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
+
+---
+
+## 📌 Currently Working On
+
+- 🤖 Building **AI-powered applications**
+- 📊 Developing **Data Science & Machine Learning projects**
+- 🧠 Exploring **Artificial Intelligence and NLP**
+- 🌐 Improving my **Full-Stack Development** skills
+- 💡 Building practical solutions for real-world problems
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 Smart Career Path Recommender System
+
+An **AI-powered career recommendation system** built using **React, Python, NLP, and Supabase** to analyze users' skills and interests and provide personalized career recommendations. It also includes a chatbot for career-related queries.
+
+### 💪 FIT-TRIBE
+
+A **MERN-based fitness management application** that allows users to create, track, and manage workouts with exercise and progress tracking. Built using **React.js, Node.js, Express.js, and MongoDB**.
+
+### 📊 Data Science & Machine Learning Projects
+
+Projects focused on **data analysis, visualization, machine learning, and predictive modeling**.
+
+---
+
+## 🎓 Experience
+
+### MERN Stack Development Training
+
+**Sensation Software Solutions, Mohali**
+
+Completed a **45-day MERN Stack training program** with hands-on experience in:
+
+`MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `Git/GitHub`
+
+Developed a **Full-Stack To-Do Management Application** as a practical project.
+
+---
+
+## 🌱 My Learning Journey
+
+Currently strengthening my knowledge in:
+
+```text
+Python → Data Science → Machine Learning → AI → NLP
+                         ↓
+                 Full-Stack Development
 
 
 ## 🌐 Socials:
